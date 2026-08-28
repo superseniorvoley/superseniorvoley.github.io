@@ -2,73 +2,154 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="Web oficial de la Liga Super Senior de Voleibol. Temporada 2026/27.">
-<title>Liga Super Senior · Voleibol</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Liga Super Senior de Voleibol · Temporada 2026/27">
+<title>Liga Super Senior · Temporada 2026/27</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<header class="site-header"><div class="container nav-wrap">
-<a class="brand" href="#inicio"><span class="brand-ball">◌</span><span><strong>LIGA<br>SUPER SENIOR</strong><small>VOLEIBOL AFICIONADOS</small></span></a>
-<button class="menu-toggle" aria-expanded="false" aria-controls="main-nav">☰</button>
-<nav id="main-nav" class="main-nav">
-<a class="active" href="#inicio">Inicio</a><a href="#calendario">Calendario</a><a href="#resultados">Resultados</a><a href="#clasificacion">Clasificación</a><a href="#equipos">Equipos</a><a href="#noticias">Noticias</a><a href="#reglamento">Reglamento</a><a href="#contacto">Contacto</a>
-</nav><div class="socials">◎</div>
-</div></header>
+<header class="site-header">
+  <div class="container nav-wrap">
+    <a class="brand" href="#inicio" aria-label="Liga Super Senior, inicio">
+      <span class="brand-ball">◌</span>
+      <span><strong>LIGA<br>SUPER SENIOR</strong><small>VOLEIBOL AFICIONADOS</small></span>
+    </a>
+    <button class="menu-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Abrir menú">☰</button>
+    <nav id="main-nav" class="main-nav">
+      <a class="active" href="#inicio">Inicio</a>
+      <a href="#liga">La liga</a>
+      <a href="#calendario">Calendario</a>
+      <a href="#resultados">Resultados</a>
+      <a href="#clasificacion">Clasificación</a>
+      <a href="#equipos">Equipos</a>
+      <a href="#noticias">Noticias</a>
+      <a href="#historia">Historia</a>
+    </nav>
+    <a class="socials" href="#instagram" aria-label="Instagram">◎</a>
+  </div>
+</header>
 
 <main id="inicio">
-<section class="hero container"><div class="hero-copy">
-<span class="eyebrow">Temporada 2026/27</span><h1>LIGA<br>SUPER SENIOR</h1><h2>VOLEIBOL · AFICIONADOS</h2>
-<p>Nos encanta el voley.<br>Y queremos seguir jugando y pasándolo bien,<br>hasta que las rodillas nos lo permitan.</p>
-<a class="button" href="#liga">SOBRE LA LIGA <span>→</span></a>
-</div><div class="hero-image"><img src="img/hero.png" alt="Balón de voleibol junto a la red"></div></section>
-
-<section id="liga" class="container intro-strip"><div><span class="section-kicker">LA LIGA</span><h2>Competimos. Disfrutamos. Seguimos jugando.</h2></div><p>Esta primera versión es la base visual de la nueva web. Los equipos, calendario y resultados son datos de ejemplo y los sustituiremos por los reales.</p></section>
-
-<section class="container dashboard-grid">
-<article id="calendario" class="card"><div class="card-heading"><div><span class="icon">▣</span><h2>Próxima jornada</h2></div><a href="#calendario">Ver calendario →</a></div>
-<p class="date">Sábado 8 de noviembre</p>
-<div class="match"><span class="time">18:00</span><strong>TIGRES</strong><span>—</span><strong>PANTERAS</strong><small>⌖ Pabellón Municipal 1</small></div>
-<div class="match"><span class="time">19:30</span><strong>ÁGUILAS</strong><span>—</span><strong>LOBOS</strong><small>⌖ Pabellón Municipal 2</small></div></article>
-
-<article id="clasificacion" class="card"><div class="card-heading"><div><span class="icon">▥</span><h2>Clasificación</h2></div><a href="#clasificacion">Ver clasificación →</a></div>
-<div class="table-wrap"><table><thead><tr><th>#</th><th>Equipo</th><th>PJ</th><th>PG</th><th>PP</th><th>Pts</th></tr></thead><tbody>
-<tr><td class="rank">1</td><td><b>Tigres</b></td><td>8</td><td>7</td><td>1</td><td><b>21</b></td></tr>
-<tr><td class="rank">2</td><td><b>Panteras</b></td><td>8</td><td>6</td><td>2</td><td><b>18</b></td></tr>
-<tr><td class="rank">3</td><td><b>Águilas</b></td><td>8</td><td>5</td><td>3</td><td><b>15</b></td></tr>
-<tr><td class="rank">4</td><td><b>Lobos</b></td><td>8</td><td>3</td><td>5</td><td><b>9</b></td></tr>
-<tr><td class="rank">5</td><td><b>Halcones</b></td><td>8</td><td>1</td><td>7</td><td><b>3</b></td></tr>
-</tbody></table></div></article>
-
-<article id="resultados" class="card"><div class="card-heading"><div><span class="icon">♜</span><h2>Últimos resultados</h2></div><a href="#resultados">Ver todos →</a></div>
-<p class="date">Jornada 7</p>
-<div class="result-row"><b>TIGRES</b><strong>2 - 1</strong><b>ÁGUILAS</b></div><div class="sets">25-18 · 22-25 · 15-12</div>
-<div class="result-row"><b>PANTERAS</b><strong>2 - 0</strong><b>HALCONES</b></div><div class="sets">25-14 · 25-20</div>
-<div class="result-row"><b>LOBOS</b><strong>—</strong><b>DESCANSO</b></div></article>
+<section class="hero container">
+  <div class="hero-copy">
+    <span class="eyebrow">Temporada 2026/27</span>
+    <h1>LIGA<br>SUPER SENIOR</h1>
+    <h2>VOLEIBOL · AFICIONADOS</h2>
+    <p>Nos encanta el voley.<br>Y queremos seguir jugando y pasándolo bien,<br>hasta que las rodillas nos lo permitan.</p>
+    <a class="button" href="#calendario">VER LA TEMPORADA <span>→</span></a>
+  </div>
+  <div class="hero-image"><img src="img/hero.png" alt="Balón de voleibol junto a la red"></div>
 </section>
 
-<section class="container lower-grid">
-<article id="equipos" class="card"><div class="card-heading"><div><span class="icon">♟</span><h2>Equipos</h2></div><a href="#equipos">Ver todos →</a></div>
-<div class="teams"><div class="team"><span>🐯</span><b>TIGRES</b></div><div class="team"><span>🐆</span><b>PANTERAS</b></div><div class="team"><span>🦅</span><b>ÁGUILAS</b></div><div class="team"><span>🐺</span><b>LOBOS</b></div><div class="team"><span>🦅</span><b>HALCONES</b></div></div></article>
-
-<article id="noticias" class="card"><div class="card-heading"><div><span class="icon">▤</span><h2>Noticias destacadas</h2></div><a href="#noticias">Ver todas →</a></div>
-<div class="news-item"><div class="news-photo"></div><div><b>¡Comienza la temporada 2026/27!</b><p>Todo listo para una nueva temporada llena de partidos, buen ambiente y mucho voley.</p><small>2 NOV 2026</small></div></div>
-<div class="news-item"><div class="news-photo"></div><div><b>Así fue la última jornada</b><p>Grandes partidos y mucha emoción en una jornada inolvidable.</p></div></div></article>
-
-<article class="card instagram-card"><div class="card-heading"><div><span class="icon white">◎</span><h2>Síguenos en Instagram</h2></div><a href="#">Ver perfil →</a></div>
-<div class="insta-grid"><img src="img/hero.png" alt=""><img src="img/hero.png" alt=""><img src="img/hero.png" alt=""><img src="img/hero.png" alt=""><img src="img/hero.png" alt=""><img src="img/hero.png" alt=""></div></article>
+<section id="liga" class="container season-bar">
+  <div><span class="section-kicker">TEMPORADA 2026/27</span><h2>Competimos. Disfrutamos. Seguimos jugando.</h2></div>
+  <div class="season-stats">
+    <div><b>10–12</b><span>equipos</span></div>
+    <div><b>1</b><span>vuelta</span></div>
+    <div><b>2</b><span>canchas</span></div>
+  </div>
 </section>
 
-<section id="reglamento" class="container simple-section"><span class="section-kicker">INFORMACIÓN</span><h2>Reglamento y funcionamiento</h2><p>Aquí tendremos el reglamento, normas de competición, sistema de puntuación y toda la información útil para los equipos.</p></section>
+<section class="container feature-grid">
+  <article class="card next-match">
+    <div class="card-heading"><div><span class="icon">▣</span><h2>Próxima jornada</h2></div><a href="#calendario">Ver calendario →</a></div>
+    <div class="journey-title"><div><span>JORNADA 1</span><strong>Sábado · 17 octubre 2026</strong></div><em>PRÓXIMA</em></div>
+    <div class="court-block">
+      <div class="court-label">CANCHA 1</div>
+      <div class="match"><span class="time">18:00</span><b>TIGRES</b><span class="vs">—</span><b>PANTERAS</b></div>
+      <div class="venue">⌖ Pabellón Municipal</div>
+      <div class="match"><span class="time">19:30</span><b>LOBOS</b><span class="vs">—</span><b>ÁGUILAS</b></div>
+      <div class="venue">⌖ Pabellón Municipal</div>
+    </div>
+    <div class="court-block">
+      <div class="court-label">CANCHA 2</div>
+      <div class="match"><span class="time">18:00</span><b>HALCONES</b><span class="vs">—</span><b>BRAVOS</b></div>
+      <div class="venue">⌖ Pabellón Municipal</div>
+      <div class="match"><span class="time">19:30</span><b>ÁGUILAS B</b><span class="vs">—</span><b>LIBRES</b></div>
+      <div class="venue">⌖ Pabellón Municipal</div>
+    </div>
+  </article>
+
+  <article id="clasificacion" class="card">
+    <div class="card-heading"><div><span class="icon">▥</span><h2>Clasificación</h2></div><a href="#clasificacion">Ver completa →</a></div>
+    <p class="subtle">Tras la Jornada 4 · datos de ejemplo</p>
+    <div class="table-wrap"><table><thead><tr><th>#</th><th>Equipo</th><th>PJ</th><th>PG</th><th>PP</th><th>SF</th><th>SC</th><th>Pts</th></tr></thead>
+    <tbody>
+      <tr><td class="rank">1</td><td><b>Tigres</b></td><td>4</td><td>4</td><td>0</td><td>8</td><td>1</td><td><b>12</b></td></tr>
+      <tr><td class="rank">2</td><td><b>Panteras</b></td><td>4</td><td>3</td><td>1</td><td>7</td><td>3</td><td><b>10</b></td></tr>
+      <tr><td class="rank">3</td><td><b>Águilas</b></td><td>4</td><td>3</td><td>1</td><td>6</td><td>3</td><td><b>9</b></td></tr>
+      <tr><td>4</td><td><b>Lobos</b></td><td>4</td><td>2</td><td>2</td><td>5</td><td>5</td><td><b>7</b></td></tr>
+      <tr><td>5</td><td><b>Halcones</b></td><td>4</td><td>1</td><td>3</td><td>3</td><td>7</td><td><b>4</b></td></tr>
+    </tbody></table></div>
+    <div class="legend"><span>SF = sets a favor</span><span>SC = sets en contra</span></div>
+  </article>
+</section>
+
+<section id="calendario" class="container page-section">
+  <div class="section-head"><div><span class="section-kicker">TEMPORADA 2026/27</span><h2>Calendario</h2><p>Cada día de competición es una jornada. Los partidos se organizan por cancha y horario.</p></div><div class="progress"><b>4 / 10</b><span>jornadas celebradas</span></div></div>
+
+  <article class="journey-card">
+    <div class="journey-head"><div><span class="journey-number">JORNADA 1</span><h3>17 octubre 2026</h3></div><span class="status upcoming">PRÓXIMA</span></div>
+    <div class="courts">
+      <div class="court"><h4>CANCHA 1</h4><div class="fixture"><span>18:00</span><b>Tigres</b><i>vs</i><b>Panteras</b></div><div class="fixture"><span>19:30</span><b>Lobos</b><i>vs</i><b>Águilas</b></div></div>
+      <div class="court"><h4>CANCHA 2</h4><div class="fixture"><span>18:00</span><b>Halcones</b><i>vs</i><b>Bravos</b></div><div class="fixture"><span>19:30</span><b>Águilas B</b><i>vs</i><b>Libres</b></div></div>
+    </div>
+  </article>
+
+  <article class="journey-card completed">
+    <div class="journey-head"><div><span class="journey-number">JORNADA 4</span><h3>14 febrero 2027</h3></div><span class="status done">COMPLETADA</span></div>
+    <div class="courts">
+      <div class="court"><h4>CANCHA 1</h4><div class="fixture"><span>18:00</span><b>Tigres</b><strong>2 — 1</strong><b>Águilas</b></div><div class="fixture"><span>19:30</span><b>Lobos</b><strong>2 — 0</strong><b>Halcones</b></div></div>
+      <div class="court"><h4>CANCHA 2</h4><div class="fixture"><span>18:00</span><b>Panteras</b><strong>2 — 0</strong><b>Bravos</b></div><div class="fixture"><span>19:30</span><b>Libres</b><strong>1 — 2</strong><b>Águilas B</b></div></div>
+    </div>
+  </article>
+</section>
+
+<section id="resultados" class="container page-section">
+  <div class="section-head"><div><span class="section-kicker">PARTIDOS DISPUTADOS</span><h2>Últimos resultados</h2><p>Consulta el marcador y el resultado de cada set.</p></div><a class="text-link" href="#resultados">Ver todos →</a></div>
+  <div class="results-grid">
+    <article class="result-card"><header><b>Jornada 4</b><span>Cancha 1 · 18:00</span></header><div class="teams-score"><b>TIGRES</b><strong>2 — 1</strong><b>ÁGUILAS</b></div><div class="set-scores"><span>25–18</span><span>21–25</span><span>15–12</span></div></article>
+    <article class="result-card"><header><b>Jornada 4</b><span>Cancha 1 · 19:30</span></header><div class="teams-score"><b>LOBOS</b><strong>2 — 0</strong><b>HALCONES</b></div><div class="set-scores"><span>25–19</span><span>25–22</span></div></article>
+    <article class="result-card"><header><b>Jornada 4</b><span>Cancha 2 · 18:00</span></header><div class="teams-score"><b>PANTERAS</b><strong>2 — 0</strong><b>BRAVOS</b></div><div class="set-scores"><span>25–14</span><span>25–20</span></div></article>
+    <article class="result-card"><header><b>Jornada 4</b><span>Cancha 2 · 19:30</span></header><div class="teams-score"><b>LIBRES</b><strong>1 — 2</strong><b>ÁGUILAS B</b></div><div class="set-scores"><span>25–21</span><span>20–25</span><span>11–15</span></div></article>
+  </div>
+</section>
+
+<section id="equipos" class="container page-section">
+  <div class="section-head"><div><span class="section-kicker">COMPETICIÓN</span><h2>Equipos</h2><p>Entre 10 y 12 equipos participarán esta temporada. Los nombres actuales son provisionales.</p></div></div>
+  <div class="team-grid">
+    <a class="team-tile" href="#equipo-tigres"><span>🐯</span><b>TIGRES</b><small>4 PJ · 12 PTS</small></a>
+    <a class="team-tile" href="#equipo-panteras"><span>🐆</span><b>PANTERAS</b><small>4 PJ · 10 PTS</small></a>
+    <a class="team-tile" href="#equipo-aguilas"><span>🦅</span><b>ÁGUILAS</b><small>4 PJ · 9 PTS</small></a>
+    <a class="team-tile" href="#equipo-lobos"><span>🐺</span><b>LOBOS</b><small>4 PJ · 7 PTS</small></a>
+    <a class="team-tile" href="#equipo-halcones"><span>🦅</span><b>HALCONES</b><small>4 PJ · 4 PTS</small></a>
+    <a class="team-tile" href="#equipo-bravos"><span>🏐</span><b>BRAVOS</b><small>4 PJ · 3 PTS</small></a>
+  </div>
+</section>
+
+<section id="noticias" class="container page-section">
+  <div class="section-head"><div><span class="section-kicker">ACTUALIDAD</span><h2>Noticias</h2></div><a class="text-link" href="#noticias">Ver todas →</a></div>
+  <div class="news-grid">
+    <article class="news-card"><div class="news-image"></div><div><small>2 NOV 2026</small><h3>¡Comienza la temporada 2026/27!</h3><p>Todo listo para una nueva temporada llena de partidos, buen ambiente y mucho voley.</p></div></article>
+    <article class="news-card"><div class="news-image"></div><div><small>15 OCT 2026</small><h3>Preparando la primera jornada</h3><p>Los equipos empiezan a cerrar fechas, horarios y canchas para el nuevo curso.</p></div></article>
+  </div>
+</section>
+
+<section id="historia" class="container info-section">
+  <div><span class="section-kicker">LA LIGA</span><h2>Una liga para seguir jugando</h2><p>La Liga Super Senior nace para disfrutar del voleibol, competir con buen ambiente y mantenernos en pista todo el tiempo que podamos. Aquí reuniremos la historia de las temporadas, el reglamento y toda la información de la competición.</p></div>
+  <div class="rule-box"><b>FORMATO DE PARTIDO</b><span>2 sets a 25 + 1 set a 15</span><small>Siempre con diferencia de 2 puntos.</small></div>
+</section>
 </main>
 
-<footer id="contacto" class="site-footer"><div class="container footer-grid">
-<div class="brand"><span class="brand-ball">◌</span><span><strong>LIGA<br>SUPER SENIOR</strong><small>VOLEIBOL AFICIONADOS</small></span></div>
-<nav><a href="#inicio">Inicio</a><a href="#calendario">Calendario</a><a href="#resultados">Resultados</a><a href="#clasificacion">Clasificación</a><a href="#equipos">Equipos</a><a href="#noticias">Noticias</a></nav>
-<p>© 2026 Liga Super Senior<br>Todos los derechos reservados.</p>
-</div></footer>
+<footer id="instagram" class="site-footer">
+  <div class="container footer-grid">
+    <div class="brand"><span class="brand-ball">◌</span><span><strong>LIGA<br>SUPER SENIOR</strong><small>VOLEIBOL AFICIONADOS</small></span></div>
+    <nav><a href="#inicio">Inicio</a><a href="#calendario">Calendario</a><a href="#resultados">Resultados</a><a href="#clasificacion">Clasificación</a><a href="#equipos">Equipos</a><a href="#noticias">Noticias</a></nav>
+    <p>© 2026 Liga Super Senior<br>Todos los derechos reservados.</p>
+  </div>
+</footer>
 <script src="js/app.js"></script>
 </body></html>
