@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-16T12:00:00+02:00",
+  "temporada": "2025-26",
+  "equipos": [
+    {
+      "id": "dragons",
+      "nombre": "Dragons",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/dragons.png"
+    },
+    {
+      "id": "manzanares-1",
+      "nombre": "Manzanares 1",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/manzanares-1.png"
+    },
+    {
+      "id": "manzanares-2",
+      "nombre": "Manzanares 2",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/manzanares-2.png"
+    },
+    {
+      "id": "torrelodones-1",
+      "nombre": "Torrelodones 1",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/torrelodones-1.png"
+    },
+    {
+      "id": "torrelodones-2",
+      "nombre": "Torrelodones 2",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/torrelodones-2.png"
+    },
+    {
+      "id": "villalba-1",
+      "nombre": "Villalba 1",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/villalba-1.png"
+    },
+    {
+      "id": "villalba-2",
+      "nombre": "Villalba 2",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/villalba-2.png"
+    },
+    {
+      "id": "villalba-3",
+      "nombre": "Villalba 3",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/villalba-3.png"
+    },
+    {
+      "id": "villalba-4",
+      "nombre": "Villalba 4",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/villalba-4.png"
+    },
+    {
+      "id": "villalba-voley-1",
+      "nombre": "Villalba Voley 1",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/villalba-voley-1.png"
+    },
+    {
+      "id": "villalba-voley-2",
+      "nombre": "Villalba Voley 2",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/villalba-voley-2.png"
+    },
+    {
+      "id": "villalba-voley-3",
+      "nombre": "Villalba Voley 3",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/villalba-voley-3.png"
+    }
+  ]
+}

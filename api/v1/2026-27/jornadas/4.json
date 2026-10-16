@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-15T10:00:00+02:00",
+  "temporada": "2026-27",
+  "jornada": {
+    "numero": 4,
+    "fecha": "2027-02-14",
+    "sede": "Pabellón Municipal",
+    "estado": "finalizada"
+  },
+  "partidos": [
+    {
+      "id": "j4-c1-1800",
+      "jornada": 4,
+      "cancha": "Cancha 1",
+      "hora": "18:00",
+      "local": "tigres",
+      "visitante": "aguilas",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 18
+        },
+        {
+          "local": 21,
+          "visitante": 25
+        },
+        {
+          "local": 15,
+          "visitante": 12
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 1
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j4-c1-1930",
+      "jornada": 4,
+      "cancha": "Cancha 1",
+      "hora": "19:30",
+      "local": "lobos",
+      "visitante": "halcones",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 19
+        },
+        {
+          "local": 25,
+          "visitante": 22
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j4-c2-1800",
+      "jornada": 4,
+      "cancha": "Cancha 2",
+      "hora": "18:00",
+      "local": "panteras",
+      "visitante": "bravos",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 14
+        },
+        {
+          "local": 25,
+          "visitante": 20
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j4-c2-1930",
+      "jornada": 4,
+      "cancha": "Cancha 2",
+      "hora": "19:30",
+      "local": "libres",
+      "visitante": "aguilas-b",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 21
+        },
+        {
+          "local": 20,
+          "visitante": 25
+        },
+        {
+          "local": 11,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 1,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    }
+  ]
+}

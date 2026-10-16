@@ -1,0 +1,139 @@
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="API pública de solo lectura de la Liga Super Senior de Voleibol: partidos por jornada, resultados y clasificación en JSON"><title>API · Liga Super Senior</title><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><meta property="og:type" content="website"><meta property="og:locale" content="es_ES"><meta property="og:site_name" content="Liga Super Senior"><meta property="og:title" content="API · Liga Super Senior"><meta property="og:description" content="API pública de solo lectura de la Liga Super Senior de Voleibol: partidos por jornada, resultados y clasificación en JSON"><meta property="og:url" content="https://superseniorvoley.github.io/api/"><meta property="og:image" content="https://superseniorvoley.github.io/img/og.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="API · Liga Super Senior"><meta name="twitter:description" content="API pública de solo lectura de la Liga Super Senior de Voleibol: partidos por jornada, resultados y clasificación en JSON"><meta name="twitter:image" content="https://superseniorvoley.github.io/img/og.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="/_astro/EncabezadoSeccion.1GFNehEO.css"><style>pre[data-astro-cid-t32msnhb]{margin:0;font-size:10px}.news-grid[data-astro-cid-t32msnhb]>*{min-width:0}
+</style></head><body><header class="site-header"><div class="container nav-wrap"><a class="brand" href="/#inicio" aria-label="Liga Super Senior, inicio"><img class="brand-ball" src="/img/logo.png" alt="" width="52" height="52"><span><strong>LIGA<br>SUPER SENIOR</strong><small>VOLEIBOL AFICIONADOS</small></span></a><button class="menu-toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Abrir menú">☰</button><nav id="main-nav" class="main-nav"><a href="/#inicio">Inicio</a><a href="/la-liga/">La liga</a><a href="/#calendario">Calendario</a><a href="/#resultados">Resultados</a><a href="/#clasificacion">Clasificación</a><a href="/#equipos">Equipos</a><a href="/#noticias">Noticias</a><a href="/historia/">Historia</a></nav><a class="socials" href="https://www.instagram.com/superseniorvoley/" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"></rect><circle cx="12" cy="12" r="4"></circle><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"></circle></svg></a></div></header><script type="module">var e=document.querySelector(`.menu-toggle`),t=document.querySelector(`.main-nav`);e&&t&&(e.addEventListener(`click`,()=>{let n=t.classList.toggle(`open`);e.setAttribute(`aria-expanded`,String(n))}),t.querySelectorAll(`a`).forEach(n=>n.addEventListener(`click`,()=>{t.classList.remove(`open`),e.setAttribute(`aria-expanded`,`false`)})));</script><main data-astro-cid-t32msnhb><section class="container page-section" data-astro-cid-t32msnhb><div class="section-head"><div><span class="section-kicker">DATOS ABIERTOS</span><h2>API pública</h2><p>Los datos del torneo, en JSON y de solo lectura. Sin registro ni clave: se pueden leer desde cualquier web.</p></div><a class="text-link" href="/" data-astro-cid-t32msnhb>← Volver a la portada</a></div><article class="card"><div class="card-heading"><div><span class="icon">▣</span><h2>Cómo usarla</h2></div></div><p class="subtle" data-astro-cid-t32msnhb>Dirección base: https://superseniorvoley.github.io/api/v1/ · La temporada en curso cuelga de la raíz y cualquier otra, de /AAAA-AA/ (p. ej. /api/v1/2025-26/clasificacion.json). Los campos siguen el contrato de datos y cada respuesta lleva su <b data-astro-cid-t32msnhb>version</b>; si el formato cambia de forma incompatible, se publica una versión nueva (/v2/).</p></article></section><section class="container page-section" data-astro-cid-t32msnhb><div class="section-head"><div><span class="section-kicker">ENDPOINTS</span><h2>Ejemplos</h2></div></div><div class="news-grid" data-astro-cid-t32msnhb><article class="card"><div class="card-heading"><div><span class="icon">▥</span><h2>temporadas.json</h2></div><a href="/api/v1/temporadas.json">Abrir →</a></div><p class="subtle" data-astro-cid-t32msnhb>Temporadas disponibles y cuál está en curso.</p><div class="table-wrap" data-astro-cid-t32msnhb><pre data-astro-cid-t32msnhb>{
+  &quot;version&quot;: 1,
+  &quot;enCurso&quot;: &quot;2026-27&quot;,
+  &quot;temporadas&quot;: [
+    {
+      &quot;id&quot;: &quot;2026-27&quot;,
+      &quot;nombre&quot;: &quot;Temporada 2026/27&quot;,
+      &quot;url&quot;: &quot;https://superseniorvoley.github.io/api/v1/2026-27/temporada.json&quot;
+    },
+    {
+      &quot;id&quot;: &quot;2025-26&quot;,
+      &quot;nombre&quot;: &quot;Temporada 2025/26&quot;,
+      &quot;url&quot;: &quot;https://superseniorvoley.github.io/api/v1/2025-26/temporada.json&quot;
+    },
+    {
+      &quot;id&quot;: &quot;2024-25&quot;,
+      &quot;nombre&quot;: &quot;Temporada 2024/25&quot;,
+      &quot;url&quot;: &quot;https://superseniorvoley.github.io/api/v1/2024-25/temporada.json&quot;
+    },
+    {
+      &quot;id&quot;: &quot;2023-24&quot;,
+      &quot;nombre&quot;: &quot;Temporada 2023/24&quot;,
+      &quot;url&quot;: &quot;https://superseniorvoley.github.io/api/v1/2023-24/temporada.json&quot;
+    }
+  ]
+}</pre></div></article><article class="card"><div class="card-heading"><div><span class="icon">▥</span><h2>temporada.json</h2></div><a href="/api/v1/temporada.json">Abrir →</a></div><p class="subtle" data-astro-cid-t32msnhb>Resumen de la temporada en curso y la lista de sus jornadas.</p><div class="table-wrap" data-astro-cid-t32msnhb><pre data-astro-cid-t32msnhb>{
+  &quot;version&quot;: 1,
+  &quot;actualizado&quot;: &quot;2026-10-15T10:00:00+02:00&quot;,
+  &quot;temporada&quot;: {
+    &quot;id&quot;: &quot;2026-27&quot;,
+    &quot;nombre&quot;: &quot;Temporada 2026/27&quot;
+  },
+  &quot;jornadasTotales&quot;: 10,
+  &quot;jornadas&quot;: [
+    {
+      &quot;numero&quot;: 1,
+      &quot;fecha&quot;: &quot;2026-10-17&quot;,
+      &quot;sede&quot;: &quot;Pabellón Municipal&quot;,
+      &quot;estado&quot;: &quot;programada&quot;,
+      &quot;partidos&quot;: 4,
+      &quot;url&quot;: &quot;https://superseniorvoley.github.io/api/v1/jornadas/1.json&quot;
+    },
+    {
+      &quot;numero&quot;: 4,
+      &quot;fecha&quot;: &quot;2027-02-14&quot;,
+      &quot;sede&quot;: &quot;Pabellón Municipal&quot;,
+      &quot;estado&quot;: &quot;finalizada&quot;,
+      &quot;partidos&quot;: 4,
+      &quot;url&quot;: &quot;https://superseniorvoley.github.io/api/v1/jornadas/4.json&quot;
+    }
+  ],
+  &quot;clasificacion&quot;: &quot;https://superseniorvoley.github.io/api/v1/clasificacion.json&quot;,
+  &quot;equipos&quot;: &quot;https://superseniorvoley.github.io/api/v1/equipos.json&quot;
+…</pre></div></article><article class="card"><div class="card-heading"><div><span class="icon">▥</span><h2>jornadas/N.json</h2></div><a href="/api/v1/jornadas/1.json">Abrir →</a></div><p class="subtle" data-astro-cid-t32msnhb>Partidos y resultados de una jornada. Sustituye el número por el de la jornada (jornadas/N.json).</p><div class="table-wrap" data-astro-cid-t32msnhb><pre data-astro-cid-t32msnhb>{
+  &quot;version&quot;: 1,
+  &quot;actualizado&quot;: &quot;2026-10-15T10:00:00+02:00&quot;,
+  &quot;temporada&quot;: &quot;2026-27&quot;,
+  &quot;jornada&quot;: {
+    &quot;numero&quot;: 1,
+    &quot;fecha&quot;: &quot;2026-10-17&quot;,
+    &quot;sede&quot;: &quot;Pabellón Municipal&quot;,
+    &quot;estado&quot;: &quot;programada&quot;
+  },
+  &quot;partidos&quot;: [
+    {
+      &quot;id&quot;: &quot;j1-c1-1800&quot;,
+      &quot;jornada&quot;: 1,
+      &quot;cancha&quot;: &quot;Cancha 1&quot;,
+      &quot;hora&quot;: &quot;18:00&quot;,
+      &quot;local&quot;: &quot;tigres&quot;,
+      &quot;visitante&quot;: &quot;panteras&quot;,
+      &quot;sets&quot;: [],
+      &quot;jugado&quot;: false,
+      &quot;setsGanados&quot;: {
+        &quot;local&quot;: 0,
+        &quot;visitante&quot;: 0
+      },
+      &quot;ganador&quot;: null
+    },
+    {
+      &quot;id&quot;: &quot;j1-c1-1930&quot;,
+…</pre></div></article><article class="card"><div class="card-heading"><div><span class="icon">▥</span><h2>clasificacion.json</h2></div><a href="/api/v1/clasificacion.json">Abrir →</a></div><p class="subtle" data-astro-cid-t32msnhb>Clasificación (y la de cada grupo, si la temporada tiene fases).</p><div class="table-wrap" data-astro-cid-t32msnhb><pre data-astro-cid-t32msnhb>{
+  &quot;version&quot;: 1,
+  &quot;actualizado&quot;: &quot;2026-10-15T10:00:00+02:00&quot;,
+  &quot;temporada&quot;: &quot;2026-27&quot;,
+  &quot;clasificacion&quot;: {
+    &quot;trasJornada&quot;: 4,
+    &quot;filas&quot;: [
+      {
+        &quot;posicion&quot;: 1,
+        &quot;equipo&quot;: &quot;tigres&quot;,
+        &quot;pj&quot;: 4,
+        &quot;pg&quot;: 4,
+        &quot;pp&quot;: 0,
+        &quot;sf&quot;: 8,
+        &quot;sc&quot;: 1,
+        &quot;puntos&quot;: 12
+      },
+      {
+        &quot;posicion&quot;: 2,
+        &quot;equipo&quot;: &quot;panteras&quot;,
+        &quot;pj&quot;: 4,
+        &quot;pg&quot;: 3,
+        &quot;pp&quot;: 1,
+        &quot;sf&quot;: 7,
+        &quot;sc&quot;: 3,
+        &quot;puntos&quot;: 10
+      },
+      {
+…</pre></div></article><article class="card"><div class="card-heading"><div><span class="icon">▥</span><h2>equipos.json</h2></div><a href="/api/v1/equipos.json">Abrir →</a></div><p class="subtle" data-astro-cid-t32msnhb>Equipos con su club y la URL de su escudo.</p><div class="table-wrap" data-astro-cid-t32msnhb><pre data-astro-cid-t32msnhb>{
+  &quot;version&quot;: 1,
+  &quot;actualizado&quot;: &quot;2026-10-15T10:00:00+02:00&quot;,
+  &quot;temporada&quot;: &quot;2026-27&quot;,
+  &quot;equipos&quot;: [
+    {
+      &quot;id&quot;: &quot;tigres&quot;,
+      &quot;nombre&quot;: &quot;Tigres&quot;
+    },
+    {
+      &quot;id&quot;: &quot;panteras&quot;,
+      &quot;nombre&quot;: &quot;Panteras&quot;
+    },
+    {
+      &quot;id&quot;: &quot;aguilas&quot;,
+      &quot;nombre&quot;: &quot;Águilas&quot;
+    },
+    {
+      &quot;id&quot;: &quot;lobos&quot;,
+      &quot;nombre&quot;: &quot;Lobos&quot;
+    },
+    {
+      &quot;id&quot;: &quot;halcones&quot;,
+      &quot;nombre&quot;: &quot;Halcones&quot;
+    },
+    {
+      &quot;id&quot;: &quot;bravos&quot;,
+      &quot;nombre&quot;: &quot;Bravos&quot;
+…</pre></div></article></div></section></main><footer id="instagram" class="site-footer"><div class="container footer-grid"><div class="brand"><img class="brand-ball" src="/img/logo.png" alt="" width="52" height="52"><span><strong>LIGA<br>SUPER SENIOR</strong><small>VOLEIBOL AFICIONADOS</small></span></div><nav><a href="/#inicio">Inicio</a><a href="/#calendario">Calendario</a><a href="/#resultados">Resultados</a><a href="/#clasificacion">Clasificación</a><a href="/#equipos">Equipos</a><a href="/#noticias">Noticias</a></nav><p>© 2026 Liga Super Senior<br>Todos los derechos reservados.</p></div></footer></body></html>

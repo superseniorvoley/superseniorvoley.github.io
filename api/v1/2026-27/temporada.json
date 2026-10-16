@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-15T10:00:00+02:00",
+  "temporada": {
+    "id": "2026-27",
+    "nombre": "Temporada 2026/27"
+  },
+  "jornadasTotales": 10,
+  "jornadas": [
+    {
+      "numero": 1,
+      "fecha": "2026-10-17",
+      "sede": "Pabellón Municipal",
+      "estado": "programada",
+      "partidos": 4,
+      "url": "https://superseniorvoley.github.io/api/v1/2026-27/jornadas/1.json"
+    },
+    {
+      "numero": 4,
+      "fecha": "2027-02-14",
+      "sede": "Pabellón Municipal",
+      "estado": "finalizada",
+      "partidos": 4,
+      "url": "https://superseniorvoley.github.io/api/v1/2026-27/jornadas/4.json"
+    }
+  ],
+  "clasificacion": "https://superseniorvoley.github.io/api/v1/2026-27/clasificacion.json",
+  "equipos": "https://superseniorvoley.github.io/api/v1/2026-27/equipos.json"
+}

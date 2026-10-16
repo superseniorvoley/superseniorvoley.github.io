@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-15T10:00:00+02:00",
+  "temporada": "2026-27",
+  "clasificacion": {
+    "trasJornada": 4,
+    "filas": [
+      {
+        "posicion": 1,
+        "equipo": "tigres",
+        "pj": 4,
+        "pg": 4,
+        "pp": 0,
+        "sf": 8,
+        "sc": 1,
+        "puntos": 12
+      },
+      {
+        "posicion": 2,
+        "equipo": "panteras",
+        "pj": 4,
+        "pg": 3,
+        "pp": 1,
+        "sf": 7,
+        "sc": 3,
+        "puntos": 10
+      },
+      {
+        "posicion": 3,
+        "equipo": "aguilas",
+        "pj": 4,
+        "pg": 3,
+        "pp": 1,
+        "sf": 6,
+        "sc": 3,
+        "puntos": 9
+      },
+      {
+        "posicion": 4,
+        "equipo": "lobos",
+        "pj": 4,
+        "pg": 2,
+        "pp": 2,
+        "sf": 5,
+        "sc": 5,
+        "puntos": 7
+      },
+      {
+        "posicion": 5,
+        "equipo": "halcones",
+        "pj": 4,
+        "pg": 1,
+        "pp": 3,
+        "sf": 3,
+        "sc": 7,
+        "puntos": 4
+      }
+    ]
+  },
+  "grupos": []
+}

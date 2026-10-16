@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-15T10:00:00+02:00",
+  "temporada": "2026-27",
+  "equipos": [
+    {
+      "id": "tigres",
+      "nombre": "Tigres"
+    },
+    {
+      "id": "panteras",
+      "nombre": "Panteras"
+    },
+    {
+      "id": "aguilas",
+      "nombre": "Águilas"
+    },
+    {
+      "id": "lobos",
+      "nombre": "Lobos"
+    },
+    {
+      "id": "halcones",
+      "nombre": "Halcones"
+    },
+    {
+      "id": "bravos",
+      "nombre": "Bravos"
+    },
+    {
+      "id": "aguilas-b",
+      "nombre": "Águilas B"
+    },
+    {
+      "id": "libres",
+      "nombre": "Libres"
+    }
+  ]
+}

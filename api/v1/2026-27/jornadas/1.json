@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-15T10:00:00+02:00",
+  "temporada": "2026-27",
+  "jornada": {
+    "numero": 1,
+    "fecha": "2026-10-17",
+    "sede": "Pabellón Municipal",
+    "estado": "programada"
+  },
+  "partidos": [
+    {
+      "id": "j1-c1-1800",
+      "jornada": 1,
+      "cancha": "Cancha 1",
+      "hora": "18:00",
+      "local": "tigres",
+      "visitante": "panteras",
+      "sets": [],
+      "jugado": false,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 0
+      },
+      "ganador": null
+    },
+    {
+      "id": "j1-c1-1930",
+      "jornada": 1,
+      "cancha": "Cancha 1",
+      "hora": "19:30",
+      "local": "lobos",
+      "visitante": "aguilas",
+      "sets": [],
+      "jugado": false,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 0
+      },
+      "ganador": null
+    },
+    {
+      "id": "j1-c2-1800",
+      "jornada": 1,
+      "cancha": "Cancha 2",
+      "hora": "18:00",
+      "local": "halcones",
+      "visitante": "bravos",
+      "sets": [],
+      "jugado": false,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 0
+      },
+      "ganador": null
+    },
+    {
+      "id": "j1-c2-1930",
+      "jornada": 1,
+      "cancha": "Cancha 2",
+      "hora": "19:30",
+      "local": "aguilas-b",
+      "visitante": "libres",
+      "sets": [],
+      "jugado": false,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 0
+      },
+      "ganador": null
+    }
+  ]
+}

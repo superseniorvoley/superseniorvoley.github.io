@@ -1,0 +1,269 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-16T09:58:53+00:00",
+  "temporada": "2023-24",
+  "jornada": {
+    "numero": 5,
+    "fecha": "2024-02-10",
+    "sede": "Polideportivo Majalastablas, Los Molinos",
+    "estado": "finalizada"
+  },
+  "partidos": [
+    {
+      "id": "j5-c1-1400",
+      "jornada": 5,
+      "cancha": "Cancha 1",
+      "hora": "14:00",
+      "local": "villalba-1",
+      "visitante": "la-cala",
+      "sets": [
+        {
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 12
+        },
+        {
+          "local": 15,
+          "visitante": 7
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 1
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j5-c1-1500",
+      "jornada": 5,
+      "cancha": "Cancha 1",
+      "hora": "15:00",
+      "local": "villalba-1",
+      "visitante": "tres-cantos",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "local": 15,
+          "visitante": 7
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j5-c1-1600",
+      "jornada": 5,
+      "cancha": "Cancha 1",
+      "hora": "16:00",
+      "local": "la-cala",
+      "visitante": "tres-cantos",
+      "sets": [
+        {
+          "local": 5,
+          "visitante": 15
+        },
+        {
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j5-c1-1700",
+      "jornada": 5,
+      "cancha": "Cancha 1",
+      "hora": "17:00",
+      "local": "guadarrama",
+      "visitante": "tres-cantos",
+      "sets": [
+        {
+          "local": 11,
+          "visitante": 15
+        },
+        {
+          "local": 17,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 8
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 1
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j5-c1-1800",
+      "jornada": 5,
+      "cancha": "Cancha 1",
+      "hora": "18:00",
+      "local": "villalba-3",
+      "visitante": "torrelodones-2",
+      "sets": [
+        {
+          "local": 5,
+          "visitante": 15
+        },
+        {
+          "local": 10,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j5-c2-1400",
+      "jornada": 5,
+      "cancha": "Cancha 2",
+      "hora": "14:00",
+      "local": "villalba-3",
+      "visitante": "las-dehesas",
+      "sets": [
+        {
+          "local": 9,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 7
+        },
+        {
+          "local": 12,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 1,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j5-c2-1500",
+      "jornada": 5,
+      "cancha": "Cancha 2",
+      "hora": "15:00",
+      "local": "villalba-2",
+      "visitante": "las-dehesas",
+      "sets": [
+        {
+          "local": 19,
+          "visitante": 17
+        },
+        {
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 17
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 1,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j5-c2-1600",
+      "jornada": 5,
+      "cancha": "Cancha 2",
+      "hora": "16:00",
+      "local": "villalba-2",
+      "visitante": "torrelodones-1",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 12
+        },
+        {
+          "local": 15,
+          "visitante": 4
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j5-c2-1700",
+      "jornada": 5,
+      "cancha": "Cancha 2",
+      "hora": "17:00",
+      "local": "torrelodones-2",
+      "visitante": "ancora-galapagar",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 12
+        },
+        {
+          "local": 15,
+          "visitante": 11
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j5-c2-1800",
+      "jornada": 5,
+      "cancha": "Cancha 2",
+      "hora": "18:00",
+      "local": "villalba-2",
+      "visitante": "guadarrama",
+      "sets": [
+        {
+          "local": 4,
+          "visitante": 15
+        },
+        {
+          "local": 9,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    }
+  ]
+}

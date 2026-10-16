@@ -1,0 +1,289 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-16T09:58:53+00:00",
+  "temporada": "2023-24",
+  "jornada": {
+    "numero": 1,
+    "fecha": "2023-10-21",
+    "sede": "Pab Mariano Benlliure, Collado Villalba",
+    "estado": "finalizada"
+  },
+  "partidos": [
+    {
+      "id": "j1-c1-1400",
+      "jornada": 1,
+      "cancha": "Cancha 1",
+      "hora": "14:00",
+      "local": "villalba-1",
+      "visitante": "las-dehesas",
+      "sets": [
+        {
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 9
+        },
+        {
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 1
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j1-c1-1500",
+      "jornada": 1,
+      "cancha": "Cancha 1",
+      "hora": "15:00",
+      "local": "villalba-2",
+      "visitante": "sanagus-2",
+      "sets": [
+        {
+          "local": 12,
+          "visitante": 15
+        },
+        {
+          "local": 12,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j1-c1-1600",
+      "jornada": 1,
+      "cancha": "Cancha 1",
+      "hora": "16:00",
+      "local": "villalba-2",
+      "visitante": "sanagus-1",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "local": 17,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j1-c1-1700",
+      "jornada": 1,
+      "cancha": "Cancha 1",
+      "hora": "17:00",
+      "local": "villalba-1",
+      "visitante": "guadarrama",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 12
+        },
+        {
+          "local": 6,
+          "visitante": 15
+        },
+        {
+          "local": 11,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 1,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j1-c1-1800",
+      "jornada": 1,
+      "cancha": "Cancha 1",
+      "hora": "18:00",
+      "local": "sanagus-1",
+      "visitante": "las-dehesas",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 9
+        },
+        {
+          "local": 15,
+          "visitante": 11
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j1-c1-1900",
+      "jornada": 1,
+      "cancha": "Cancha 1",
+      "hora": "19:00",
+      "local": "villalba-3",
+      "visitante": "la-cala",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 8
+        },
+        {
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j1-c2-1400",
+      "jornada": 1,
+      "cancha": "Cancha 2",
+      "hora": "14:00",
+      "local": "tres-cantos",
+      "visitante": "ancora-galapagar",
+      "sets": [
+        {
+          "local": 10,
+          "visitante": 15
+        },
+        {
+          "local": 10,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j1-c2-1500",
+      "jornada": 1,
+      "cancha": "Cancha 2",
+      "hora": "15:00",
+      "local": "villalba-3",
+      "visitante": "tres-cantos",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 10
+        },
+        {
+          "local": 15,
+          "visitante": 6
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j1-c2-1600",
+      "jornada": 1,
+      "cancha": "Cancha 2",
+      "hora": "16:00",
+      "local": "torrelodones-1",
+      "visitante": "la-cala",
+      "sets": [
+        {
+          "local": 8,
+          "visitante": 15
+        },
+        {
+          "local": 14,
+          "visitante": 16
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j1-c2-1700",
+      "jornada": 1,
+      "cancha": "Cancha 2",
+      "hora": "17:00",
+      "local": "torrelodones-1",
+      "visitante": "ancora-galapagar",
+      "sets": [
+        {
+          "local": 6,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 10
+        },
+        {
+          "local": 15,
+          "visitante": 17
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 1,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j1-c2-1800",
+      "jornada": 1,
+      "cancha": "Cancha 2",
+      "hora": "18:00",
+      "local": "sanagus-2",
+      "visitante": "guadarrama",
+      "sets": [
+        {
+          "local": 12,
+          "visitante": 15
+        },
+        {
+          "local": 8,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-16T09:58:53+00:00",
+  "temporada": "2023-24",
+  "clasificacion": {
+    "nombre": "Primera fase",
+    "trasJornada": 5,
+    "filas": [
+      {
+        "posicion": 1,
+        "equipo": "torrelodones-2",
+        "pj": 9,
+        "pg": 9,
+        "pp": 0,
+        "sf": 18,
+        "sc": 0,
+        "puntos": 27
+      },
+      {
+        "posicion": 2,
+        "equipo": "villalba-1",
+        "pj": 10,
+        "pg": 8,
+        "pp": 2,
+        "sf": 17,
+        "sc": 6,
+        "puntos": 23
+      },
+      {
+        "posicion": 3,
+        "equipo": "guadarrama",
+        "pj": 10,
+        "pg": 7,
+        "pp": 3,
+        "sf": 16,
+        "sc": 8,
+        "puntos": 21
+      },
+      {
+        "posicion": 4,
+        "equipo": "villalba-3",
+        "pj": 10,
+        "pg": 6,
+        "pp": 4,
+        "sf": 13,
+        "sc": 10,
+        "puntos": 17
+      },
+      {
+        "posicion": 5,
+        "equipo": "villalba-2",
+        "pj": 11,
+        "pg": 4,
+        "pp": 7,
+        "sf": 10,
+        "sc": 15,
+        "puntos": 13
+      },
+      {
+        "posicion": 6,
+        "equipo": "las-dehesas",
+        "pj": 8,
+        "pg": 5,
+        "pp": 3,
+        "sf": 11,
+        "sc": 9,
+        "puntos": 13
+      },
+      {
+        "posicion": 7,
+        "equipo": "sanagus-1",
+        "pj": 8,
+        "pg": 4,
+        "pp": 4,
+        "sf": 9,
+        "sc": 9,
+        "puntos": 12
+      },
+      {
+        "posicion": 8,
+        "equipo": "ancora-galapagar",
+        "pj": 9,
+        "pg": 4,
+        "pp": 5,
+        "sf": 9,
+        "sc": 11,
+        "puntos": 12
+      },
+      {
+        "posicion": 9,
+        "equipo": "tres-cantos",
+        "pj": 9,
+        "pg": 2,
+        "pp": 7,
+        "sf": 7,
+        "sc": 15,
+        "puntos": 8
+      },
+      {
+        "posicion": 10,
+        "equipo": "la-cala",
+        "pj": 10,
+        "pg": 2,
+        "pp": 8,
+        "sf": 5,
+        "sc": 17,
+        "puntos": 6
+      },
+      {
+        "posicion": 11,
+        "equipo": "torrelodones-1",
+        "pj": 9,
+        "pg": 1,
+        "pp": 8,
+        "sf": 4,
+        "sc": 17,
+        "puntos": 4
+      },
+      {
+        "posicion": 12,
+        "equipo": "sanagus-2",
+        "pj": 3,
+        "pg": 1,
+        "pp": 2,
+        "sf": 2,
+        "sc": 4,
+        "puntos": 3
+      }
+    ]
+  },
+  "grupos": [
+    {
+      "nombre": "Grupo Oro",
+      "trasJornada": 6,
+      "filas": [
+        {
+          "posicion": 1,
+          "equipo": "torrelodones-2",
+          "pj": 2,
+          "pg": 2,
+          "pp": 0,
+          "sf": 4,
+          "sc": 1,
+          "puntos": 5
+        },
+        {
+          "posicion": 2,
+          "equipo": "guadarrama",
+          "pj": 2,
+          "pg": 2,
+          "pp": 0,
+          "sf": 4,
+          "sc": 1,
+          "puntos": 5
+        },
+        {
+          "posicion": 3,
+          "equipo": "villalba-3",
+          "pj": 2,
+          "pg": 1,
+          "pp": 1,
+          "sf": 2,
+          "sc": 3,
+          "puntos": 2
+        },
+        {
+          "posicion": 4,
+          "equipo": "las-dehesas",
+          "pj": 2,
+          "pg": 0,
+          "pp": 2,
+          "sf": 2,
+          "sc": 4,
+          "puntos": 2
+        },
+        {
+          "posicion": 5,
+          "equipo": "villalba-1",
+          "pj": 2,
+          "pg": 0,
+          "pp": 2,
+          "sf": 1,
+          "sc": 4,
+          "puntos": 1
+        }
+      ]
+    },
+    {
+      "nombre": "Grupo Plata",
+      "trasJornada": 6,
+      "filas": [
+        {
+          "posicion": 1,
+          "equipo": "sanagus-1",
+          "pj": 2,
+          "pg": 2,
+          "pp": 0,
+          "sf": 4,
+          "sc": 0,
+          "puntos": 6
+        },
+        {
+          "posicion": 2,
+          "equipo": "villalba-2",
+          "pj": 2,
+          "pg": 1,
+          "pp": 1,
+          "sf": 2,
+          "sc": 2,
+          "puntos": 3
+        },
+        {
+          "posicion": 3,
+          "equipo": "ancora-galapagar",
+          "pj": 1,
+          "pg": 1,
+          "pp": 0,
+          "sf": 2,
+          "sc": 1,
+          "puntos": 2
+        },
+        {
+          "posicion": 4,
+          "equipo": "tres-cantos",
+          "pj": 2,
+          "pg": 0,
+          "pp": 2,
+          "sf": 1,
+          "sc": 4,
+          "puntos": 1
+        },
+        {
+          "posicion": 5,
+          "equipo": "torrelodones-1",
+          "pj": 1,
+          "pg": 0,
+          "pp": 1,
+          "sf": 0,
+          "sc": 2,
+          "puntos": 0
+        },
+        {
+          "posicion": 6,
+          "equipo": "la-cala",
+          "pj": 0,
+          "pg": 0,
+          "pp": 0,
+          "sf": 0,
+          "sc": 0,
+          "puntos": 0
+        },
+        {
+          "posicion": 7,
+          "equipo": "sanagus-2",
+          "pj": 0,
+          "pg": 0,
+          "pp": 0,
+          "sf": 0,
+          "sc": 0,
+          "puntos": 0
+        }
+      ]
+    }
+  ]
+}
