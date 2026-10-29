@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-16T09:58:53+00:00",
+  "temporada": "2023-24",
+  "equipos": [
+    {
+      "id": "ancora-galapagar",
+      "nombre": "Ancora Galapagar"
+    },
+    {
+      "id": "guadarrama",
+      "nombre": "Guadarrama"
+    },
+    {
+      "id": "la-cala",
+      "nombre": "La Cala"
+    },
+    {
+      "id": "las-dehesas",
+      "nombre": "Las Dehesas"
+    },
+    {
+      "id": "sanagus-1",
+      "nombre": "SanAgus 1"
+    },
+    {
+      "id": "sanagus-2",
+      "nombre": "SanAgus 2"
+    },
+    {
+      "id": "torrelodones-1",
+      "nombre": "Torrelodones 1"
+    },
+    {
+      "id": "torrelodones-2",
+      "nombre": "Torrelodones 2"
+    },
+    {
+      "id": "tres-cantos",
+      "nombre": "Tres Cantos"
+    },
+    {
+      "id": "villalba-1",
+      "nombre": "Villalba 1"
+    },
+    {
+      "id": "villalba-2",
+      "nombre": "Villalba 2"
+    },
+    {
+      "id": "villalba-3",
+      "nombre": "Villalba 3"
+    }
+  ]
+}

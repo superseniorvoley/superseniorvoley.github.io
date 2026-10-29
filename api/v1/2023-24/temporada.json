@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-16T09:58:53+00:00",
+  "temporada": {
+    "id": "2023-24",
+    "nombre": "Temporada 2023/24"
+  },
+  "jornadasTotales": null,
+  "jornadas": [
+    {
+      "numero": 1,
+      "fecha": "2023-10-21",
+      "sede": "Pab Mariano Benlliure, Collado Villalba",
+      "estado": "finalizada",
+      "partidos": 11,
+      "url": "https://superseniorvoley.github.io/api/v1/2023-24/jornadas/1.json"
+    },
+    {
+      "numero": 2,
+      "fecha": "2023-11-25",
+      "sede": "Pab Colegio Villa de Guadarrama, Guadarrama",
+      "estado": "finalizada",
+      "partidos": 11,
+      "url": "https://superseniorvoley.github.io/api/v1/2023-24/jornadas/2.json"
+    },
+    {
+      "numero": 3,
+      "fecha": "2023-12-16",
+      "sede": "Espacio Enrique Más, Tres Cantos",
+      "estado": "finalizada",
+      "partidos": 12,
+      "url": "https://superseniorvoley.github.io/api/v1/2023-24/jornadas/3.json"
+    },
+    {
+      "numero": 4,
+      "fecha": "2024-01-14",
+      "sede": "Polideportivo Majalastablas, Los Molinos",
+      "estado": "finalizada",
+      "partidos": 9,
+      "url": "https://superseniorvoley.github.io/api/v1/2023-24/jornadas/4.json"
+    },
+    {
+      "numero": 5,
+      "fecha": "2024-02-10",
+      "sede": "Polideportivo Majalastablas, Los Molinos",
+      "estado": "finalizada",
+      "partidos": 10,
+      "url": "https://superseniorvoley.github.io/api/v1/2023-24/jornadas/5.json"
+    },
+    {
+      "numero": 6,
+      "fecha": "2024-03-16",
+      "sede": "Pab Colegio Villa de Guadarrama, Guadarrama",
+      "estado": "finalizada",
+      "partidos": 9,
+      "url": "https://superseniorvoley.github.io/api/v1/2023-24/jornadas/6.json"
+    }
+  ],
+  "clasificacion": "https://superseniorvoley.github.io/api/v1/2023-24/clasificacion.json",
+  "equipos": "https://superseniorvoley.github.io/api/v1/2023-24/equipos.json"
+}
