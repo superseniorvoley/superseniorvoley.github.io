@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-26T08:55:29.475Z",
+  "temporada": {
+    "id": "2026-27",
+    "nombre": "Temporada 2026/27"
+  },
+  "jornadasTotales": null,
+  "jornadas": [
+    {
+      "numero": 1,
+      "fecha": "2026-10-25",
+      "sede": "Benlliure",
+      "estado": "finalizada",
+      "partidos": 8,
+      "url": "https://superseniorvoley.github.io/api/v1/jornadas/1.json"
+    }
+  ],
+  "clasificacion": "https://superseniorvoley.github.io/api/v1/clasificacion.json",
+  "equipos": "https://superseniorvoley.github.io/api/v1/equipos.json"
+}

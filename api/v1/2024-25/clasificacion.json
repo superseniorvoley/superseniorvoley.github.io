@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-16T09:58:56+00:00",
+  "temporada": "2024-25",
+  "clasificacion": {
+    "trasJornada": 5,
+    "filas": [
+      {
+        "posicion": 1,
+        "equipo": "villalba-voley-1",
+        "pj": 10,
+        "pg": 8,
+        "pp": 2,
+        "sf": 16,
+        "sc": 5,
+        "puntos": 23,
+        "nombre": "Villalba Voley 1"
+      },
+      {
+        "posicion": 2,
+        "equipo": "villalba-1",
+        "pj": 10,
+        "pg": 7,
+        "pp": 3,
+        "sf": 15,
+        "sc": 6,
+        "puntos": 22,
+        "nombre": "Villalba 1"
+      },
+      {
+        "posicion": 3,
+        "equipo": "guadarrama-1",
+        "pj": 8,
+        "pg": 6,
+        "pp": 2,
+        "sf": 12,
+        "sc": 5,
+        "puntos": 17,
+        "nombre": "Guadarrama 1"
+      },
+      {
+        "posicion": 4,
+        "equipo": "villalba-2",
+        "pj": 10,
+        "pg": 6,
+        "pp": 4,
+        "sf": 13,
+        "sc": 10,
+        "puntos": 17,
+        "nombre": "Villalba 2"
+      },
+      {
+        "posicion": 5,
+        "equipo": "villalba-4",
+        "pj": 8,
+        "pg": 5,
+        "pp": 3,
+        "sf": 11,
+        "sc": 6,
+        "puntos": 16,
+        "nombre": "Villalba 4"
+      },
+      {
+        "posicion": 6,
+        "equipo": "villalba-3",
+        "pj": 10,
+        "pg": 5,
+        "pp": 5,
+        "sf": 11,
+        "sc": 11,
+        "puntos": 15,
+        "nombre": "Villalba 3"
+      },
+      {
+        "posicion": 7,
+        "equipo": "torrelodones-2",
+        "pj": 5,
+        "pg": 4,
+        "pp": 1,
+        "sf": 8,
+        "sc": 3,
+        "puntos": 11,
+        "nombre": "Torrelodones 2"
+      },
+      {
+        "posicion": 8,
+        "equipo": "guadarrama-3",
+        "pj": 6,
+        "pg": 4,
+        "pp": 2,
+        "sf": 9,
+        "sc": 6,
+        "puntos": 11,
+        "nombre": "Guadarrama 3"
+      },
+      {
+        "posicion": 9,
+        "equipo": "guadarrama-2",
+        "pj": 8,
+        "pg": 1,
+        "pp": 7,
+        "sf": 4,
+        "sc": 14,
+        "puntos": 5,
+        "nombre": "Guadarrama 2"
+      },
+      {
+        "posicion": 10,
+        "equipo": "villalba-voley-2",
+        "pj": 11,
+        "pg": 1,
+        "pp": 10,
+        "sf": 4,
+        "sc": 21,
+        "puntos": 4,
+        "nombre": "Villalba Voley 2"
+      },
+      {
+        "posicion": 11,
+        "equipo": "torrelodones-1",
+        "pj": 10,
+        "pg": 1,
+        "pp": 9,
+        "sf": 3,
+        "sc": 19,
+        "puntos": 3,
+        "nombre": "Torrelodones 1"
+      }
+    ]
+  },
+  "grupos": []
+}
