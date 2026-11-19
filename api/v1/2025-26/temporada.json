@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-16T12:00:00+02:00",
+  "temporada": {
+    "id": "2025-26",
+    "nombre": "Temporada 2025/26"
+  },
+  "jornadasTotales": null,
+  "jornadas": [
+    {
+      "numero": 1,
+      "fecha": "2025-11-15",
+      "sede": "CEIP Mariano Benlliure, Collado Villalba",
+      "estado": "finalizada",
+      "partidos": 12,
+      "url": "https://superseniorvoley.github.io/api/v1/2025-26/jornadas/1.json"
+    },
+    {
+      "numero": 2,
+      "fecha": "2025-12-14",
+      "sede": "IES Diego de Velázquez, Torrelodones",
+      "estado": "finalizada",
+      "partidos": 10,
+      "url": "https://superseniorvoley.github.io/api/v1/2025-26/jornadas/2.json"
+    },
+    {
+      "numero": 3,
+      "fecha": "2026-01-24",
+      "sede": "CEIP Mariano Benlliure, Collado Villalba",
+      "estado": "finalizada",
+      "partidos": 10,
+      "url": "https://superseniorvoley.github.io/api/v1/2025-26/jornadas/3.json"
+    },
+    {
+      "numero": 4,
+      "fecha": "2026-03-14",
+      "sede": "CEIP Mariano Benlliure, Collado Villalba",
+      "estado": "finalizada",
+      "partidos": 8,
+      "url": "https://superseniorvoley.github.io/api/v1/2025-26/jornadas/4.json"
+    },
+    {
+      "numero": 5,
+      "fecha": "2026-04-25",
+      "sede": "CEIP Mariano Benlliure, Collado Villalba",
+      "estado": "finalizada",
+      "partidos": 8,
+      "url": "https://superseniorvoley.github.io/api/v1/2025-26/jornadas/5.json"
+    }
+  ],
+  "clasificacion": "https://superseniorvoley.github.io/api/v1/2025-26/clasificacion.json",
+  "equipos": "https://superseniorvoley.github.io/api/v1/2025-26/equipos.json"
+}

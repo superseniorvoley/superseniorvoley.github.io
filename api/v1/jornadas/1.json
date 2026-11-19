@@ -1,0 +1,213 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-26T08:55:29.475Z",
+  "temporada": "2026-27",
+  "jornada": {
+    "numero": 1,
+    "fecha": "2026-10-25",
+    "sede": "Benlliure",
+    "estado": "finalizada"
+  },
+  "partidos": [
+    {
+      "id": "j1-pista1-1000",
+      "jornada": 1,
+      "cancha": "Pista 1",
+      "hora": "10:00",
+      "local": "bustarviejo",
+      "visitante": "villalba-3",
+      "sets": [
+        {
+          "local": 9,
+          "visitante": 25
+        },
+        {
+          "local": 14,
+          "visitante": 25
+        }
+      ],
+      "acta": "https://cv-villalba.rotamos.es/liga/acta/76a17eae-8ffa-4e56-8b02-cb27b2a875ba",
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j1-pista2-1000",
+      "jornada": 1,
+      "cancha": "Pista 2",
+      "hora": "10:00",
+      "local": "villalba-1",
+      "visitante": "torrelodones-2",
+      "sets": [
+        {
+          "local": 17,
+          "visitante": 25
+        },
+        {
+          "local": 15,
+          "visitante": 25
+        }
+      ],
+      "acta": "https://cv-villalba.rotamos.es/liga/acta/c1225a47-17c2-4971-b5e1-fe56230ed100",
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j1-pista1-1100",
+      "jornada": 1,
+      "cancha": "Pista 1",
+      "hora": "11:00",
+      "local": "villalba-1",
+      "visitante": "bustarviejo",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 11
+        },
+        {
+          "local": 25,
+          "visitante": 7
+        }
+      ],
+      "acta": "https://cv-villalba.rotamos.es/liga/acta/8b8116a7-16bd-42c9-8359-2facec41ee32",
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j1-pista2-1100",
+      "jornada": 1,
+      "cancha": "Pista 2",
+      "hora": "11:00",
+      "local": "torrelodones-2",
+      "visitante": "villalba-3",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 12
+        },
+        {
+          "local": 25,
+          "visitante": 22
+        }
+      ],
+      "acta": "https://cv-villalba.rotamos.es/liga/acta/feb38e12-0c88-4825-836f-40ec06abfc11",
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j1-pista1-1200",
+      "jornada": 1,
+      "cancha": "Pista 1",
+      "hora": "12:00",
+      "local": "torrelodones-1",
+      "visitante": "villalba-2",
+      "sets": [
+        {
+          "local": 24,
+          "visitante": 26
+        },
+        {
+          "local": 16,
+          "visitante": 25
+        }
+      ],
+      "acta": "https://cv-villalba.rotamos.es/liga/acta/d55f3752-125a-40ec-9456-3d9a76c8abb9",
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j1-pista2-1200",
+      "jornada": 1,
+      "cancha": "Pista 2",
+      "hora": "12:00",
+      "local": "torrelodones-3",
+      "visitante": "manzanares-1",
+      "sets": [
+        {
+          "local": 12,
+          "visitante": 25
+        },
+        {
+          "local": 12,
+          "visitante": 25
+        }
+      ],
+      "acta": "https://cv-villalba.rotamos.es/liga/acta/2f5a64f3-9cfa-461e-a6b3-3bc7df3fd3c5",
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j1-pista1-1300",
+      "jornada": 1,
+      "cancha": "Pista 1",
+      "hora": "13:00",
+      "local": "torrelodones-3",
+      "visitante": "villalba-2",
+      "sets": [
+        {
+          "local": 7,
+          "visitante": 25
+        },
+        {
+          "local": 5,
+          "visitante": 25
+        }
+      ],
+      "acta": "https://cv-villalba.rotamos.es/liga/acta/a95e88fd-7f1f-4428-9120-a2004afa0d17",
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j1-pista2-1300",
+      "jornada": 1,
+      "cancha": "Pista 2",
+      "hora": "13:00",
+      "local": "torrelodones-1",
+      "visitante": "manzanares-1",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 16
+        },
+        {
+          "local": 25,
+          "visitante": 13
+        }
+      ],
+      "acta": "https://cv-villalba.rotamos.es/liga/acta/277de639-fead-443e-8bf0-2567b14e198a",
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    }
+  ]
+}

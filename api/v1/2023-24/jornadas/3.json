@@ -1,0 +1,313 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-16T09:58:53+00:00",
+  "temporada": "2023-24",
+  "jornada": {
+    "numero": 3,
+    "fecha": "2023-12-16",
+    "sede": "Espacio Enrique Más, Tres Cantos",
+    "estado": "finalizada"
+  },
+  "partidos": [
+    {
+      "id": "j3-c1-1400",
+      "jornada": 3,
+      "cancha": "Cancha 1",
+      "hora": "14:00",
+      "local": "ancora-galapagar",
+      "visitante": "las-dehesas",
+      "sets": [
+        {
+          "local": 0,
+          "visitante": 15
+        },
+        {
+          "local": 0,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j3-c1-1500",
+      "jornada": 3,
+      "cancha": "Cancha 1",
+      "hora": "15:00",
+      "local": "las-dehesas",
+      "visitante": "torrelodones-2",
+      "sets": [
+        {
+          "local": 5,
+          "visitante": 15
+        },
+        {
+          "local": 10,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j3-c1-1600",
+      "jornada": 3,
+      "cancha": "Cancha 1",
+      "hora": "16:00",
+      "local": "villalba-1",
+      "visitante": "sanagus-1",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 11
+        },
+        {
+          "local": 15,
+          "visitante": 4
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j3-c1-1700",
+      "jornada": 3,
+      "cancha": "Cancha 1",
+      "hora": "17:00",
+      "local": "tres-cantos",
+      "visitante": "sanagus-1",
+      "sets": [
+        {
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "local": 10,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 6
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 1
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j3-c1-1800",
+      "jornada": 3,
+      "cancha": "Cancha 1",
+      "hora": "18:00",
+      "local": "villalba-3",
+      "visitante": "torrelodones-1",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 12
+        },
+        {
+          "local": 15,
+          "visitante": 8
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j3-c1-1900",
+      "jornada": 3,
+      "cancha": "Cancha 1",
+      "hora": "19:00",
+      "local": "torrelodones-1",
+      "visitante": "tres-cantos",
+      "sets": [
+        {
+          "local": 5,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 7
+        },
+        {
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 1
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j3-c2-1400",
+      "jornada": 3,
+      "cancha": "Cancha 2",
+      "hora": "14:00",
+      "local": "la-cala",
+      "visitante": "torrelodones-2",
+      "sets": [
+        {
+          "local": 9,
+          "visitante": 15
+        },
+        {
+          "local": 6,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j3-c2-1500",
+      "jornada": 3,
+      "cancha": "Cancha 2",
+      "hora": "15:00",
+      "local": "ancora-galapagar",
+      "visitante": "guadarrama",
+      "sets": [
+        {
+          "local": 0,
+          "visitante": 15
+        },
+        {
+          "local": 0,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j3-c2-1600",
+      "jornada": 3,
+      "cancha": "Cancha 2",
+      "hora": "16:00",
+      "local": "la-cala",
+      "visitante": "guadarrama",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 11
+        },
+        {
+          "local": 12,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 1
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j3-c2-1700",
+      "jornada": 3,
+      "cancha": "Cancha 2",
+      "hora": "17:00",
+      "local": "villalba-1",
+      "visitante": "villalba-2",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 6
+        },
+        {
+          "local": 15,
+          "visitante": 10
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j3-c2-1800",
+      "jornada": 3,
+      "cancha": "Cancha 2",
+      "hora": "18:00",
+      "local": "villalba-2",
+      "visitante": "torrelodones-2",
+      "sets": [
+        {
+          "local": 11,
+          "visitante": 15
+        },
+        {
+          "local": 7,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j3-c2-1900",
+      "jornada": 3,
+      "cancha": "Cancha 2",
+      "hora": "19:00",
+      "local": "villalba-3",
+      "visitante": "sanagus-1",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 7
+        },
+        {
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    }
+  ]
+}

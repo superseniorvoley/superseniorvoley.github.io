@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-16T09:58:56+00:00",
+  "temporada": "2024-25",
+  "equipos": [
+    {
+      "id": "guadarrama-1",
+      "nombre": "Guadarrama 1"
+    },
+    {
+      "id": "guadarrama-2",
+      "nombre": "Guadarrama 2"
+    },
+    {
+      "id": "guadarrama-3",
+      "nombre": "Guadarrama 3"
+    },
+    {
+      "id": "torrelodones-1",
+      "nombre": "Torrelodones 1"
+    },
+    {
+      "id": "torrelodones-2",
+      "nombre": "Torrelodones 2"
+    },
+    {
+      "id": "villalba-1",
+      "nombre": "Villalba 1"
+    },
+    {
+      "id": "villalba-2",
+      "nombre": "Villalba 2"
+    },
+    {
+      "id": "villalba-3",
+      "nombre": "Villalba 3"
+    },
+    {
+      "id": "villalba-4",
+      "nombre": "Villalba 4"
+    },
+    {
+      "id": "villalba-voley-1",
+      "nombre": "Villalba Voley 1"
+    },
+    {
+      "id": "villalba-voley-2",
+      "nombre": "Villalba Voley 2"
+    }
+  ]
+}

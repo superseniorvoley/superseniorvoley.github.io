@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-26T08:55:29.475Z",
+  "temporada": "2026-27",
+  "equipos": [
+    {
+      "id": "bustarviejo",
+      "nombre": "Bustarviejo",
+      "club": "Bustarviejo",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/bustarviejo.png"
+    },
+    {
+      "id": "manzanares-1",
+      "nombre": "Manzanares 1",
+      "club": "Manzanares El Real",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/manzanares-1.png"
+    },
+    {
+      "id": "manzanares-2",
+      "nombre": "Manzanares 2",
+      "club": "Manzanares El Real",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/manzanares-2.png"
+    },
+    {
+      "id": "torrelodones-1",
+      "nombre": "Torrelodones 1",
+      "club": "Club Voleibol Torrelodones",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/torrelodones-1.png"
+    },
+    {
+      "id": "torrelodones-2",
+      "nombre": "Torrelodones 2",
+      "club": "Club Voleibol Torrelodones",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/torrelodones-2.png"
+    },
+    {
+      "id": "torrelodones-3",
+      "nombre": "Torrelodones 3",
+      "club": "Club Voleibol Torrelodones",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/torrelodones-3.png"
+    },
+    {
+      "id": "villalba-1",
+      "nombre": "Villalba 1",
+      "club": "Club Voleibol Collado Villalba",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/villalba-1.png"
+    },
+    {
+      "id": "villalba-2",
+      "nombre": "Villalba 2",
+      "club": "Club Voleibol Collado Villalba",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/villalba-2.png"
+    },
+    {
+      "id": "villalba-3",
+      "nombre": "Villalba 3",
+      "club": "Club Voleibol Collado Villalba",
+      "escudo": "https://superseniorvoley.github.io/img/escudos/villalba-3.png"
+    }
+  ]
+}

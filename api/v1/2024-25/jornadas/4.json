@@ -1,0 +1,313 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-16T09:58:56+00:00",
+  "temporada": "2024-25",
+  "jornada": {
+    "numero": 4,
+    "fecha": "2025-03-29",
+    "sede": "Pab Colegio Villa de Guadarrama, Guadarrama",
+    "estado": "finalizada"
+  },
+  "partidos": [
+    {
+      "id": "j4-c1-1600",
+      "jornada": 4,
+      "cancha": "Cancha 1",
+      "hora": "16:00",
+      "local": "guadarrama-1",
+      "visitante": "torrelodones-2",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 27
+        },
+        {
+          "local": 14,
+          "visitante": 25
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j4-c1-1700",
+      "jornada": 4,
+      "cancha": "Cancha 1",
+      "hora": "17:00",
+      "local": "guadarrama-1",
+      "visitante": "villalba-voley-2",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 15
+        },
+        {
+          "local": 25,
+          "visitante": 16
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j4-c1-1800",
+      "jornada": 4,
+      "cancha": "Cancha 1",
+      "hora": "18:00",
+      "local": "villalba-voley-2",
+      "visitante": "torrelodones-2",
+      "sets": [
+        {
+          "local": 14,
+          "visitante": 25
+        },
+        {
+          "local": 11,
+          "visitante": 25
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j4-c1-1900",
+      "jornada": 4,
+      "cancha": "Cancha 1",
+      "hora": "19:00",
+      "local": "guadarrama-2",
+      "visitante": "villalba-1",
+      "sets": [
+        {
+          "local": 17,
+          "visitante": 25
+        },
+        {
+          "local": 20,
+          "visitante": 25
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j4-c1-2000",
+      "jornada": 4,
+      "cancha": "Cancha 1",
+      "hora": "20:00",
+      "local": "guadarrama-2",
+      "visitante": "villalba-4",
+      "sets": [
+        {
+          "local": 11,
+          "visitante": 25
+        },
+        {
+          "local": 16,
+          "visitante": 25
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j4-c1-2100",
+      "jornada": 4,
+      "cancha": "Cancha 1",
+      "hora": "21:00",
+      "local": "villalba-1",
+      "visitante": "villalba-4",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 16
+        },
+        {
+          "local": 26,
+          "visitante": 24
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j4-c2-1600",
+      "jornada": 4,
+      "cancha": "Cancha 2",
+      "hora": "16:00",
+      "local": "villalba-2",
+      "visitante": "villalba-3",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 23
+        },
+        {
+          "local": 25,
+          "visitante": 20
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j4-c2-1700",
+      "jornada": 4,
+      "cancha": "Cancha 2",
+      "hora": "17:00",
+      "local": "villalba-voley-1",
+      "visitante": "torrelodones-2",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 18
+        },
+        {
+          "local": 25,
+          "visitante": 17
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j4-c2-1800",
+      "jornada": 4,
+      "cancha": "Cancha 2",
+      "hora": "18:00",
+      "local": "villalba-voley-1",
+      "visitante": "torrelodones-1",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 15
+        },
+        {
+          "local": 25,
+          "visitante": 12
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 0
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j4-c2-1900",
+      "jornada": 4,
+      "cancha": "Cancha 2",
+      "hora": "19:00",
+      "local": "villalba-4",
+      "visitante": "guadarrama-3",
+      "sets": [
+        {
+          "local": 25,
+          "visitante": 22
+        },
+        {
+          "local": 14,
+          "visitante": 25
+        },
+        {
+          "local": 14,
+          "visitante": 16
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 1,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j4-c2-2000",
+      "jornada": 4,
+      "cancha": "Cancha 2",
+      "hora": "20:00",
+      "local": "villalba-2",
+      "visitante": "torrelodones-1",
+      "sets": [
+        {
+          "local": 26,
+          "visitante": 24
+        },
+        {
+          "local": 24,
+          "visitante": 26
+        },
+        {
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 1
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j4-c2-2100",
+      "jornada": 4,
+      "cancha": "Cancha 2",
+      "hora": "21:00",
+      "local": "guadarrama-3",
+      "visitante": "villalba-3",
+      "sets": [
+        {
+          "local": 19,
+          "visitante": 25
+        },
+        {
+          "local": 27,
+          "visitante": 25
+        },
+        {
+          "local": 14,
+          "visitante": 16
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 1,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    }
+  ]
+}

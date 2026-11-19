@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-16T09:58:53+00:00",
+  "temporada": "2023-24",
+  "jornada": {
+    "numero": 6,
+    "fecha": "2024-03-16",
+    "sede": "Pab Colegio Villa de Guadarrama, Guadarrama",
+    "estado": "finalizada"
+  },
+  "partidos": [
+    {
+      "id": "j6-c1-1715",
+      "jornada": 6,
+      "cancha": "Cancha 1",
+      "hora": "17:15",
+      "local": "ancora-galapagar",
+      "visitante": "tres-cantos",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 10
+        },
+        {
+          "local": 12,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 7
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 1
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j6-c1-1800",
+      "jornada": 6,
+      "cancha": "Cancha 1",
+      "hora": "18:00",
+      "local": "villalba-2",
+      "visitante": "sanagus-1",
+      "sets": [
+        {
+          "local": 8,
+          "visitante": 15
+        },
+        {
+          "local": 12,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j6-c1-1900",
+      "jornada": 6,
+      "cancha": "Cancha 1",
+      "hora": "19:00",
+      "local": "torrelodones-2",
+      "visitante": "las-dehesas",
+      "sets": [
+        {
+          "local": 12,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 7
+        },
+        {
+          "local": 15,
+          "visitante": 11
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 1
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j6-c1-1945",
+      "jornada": 6,
+      "cancha": "Cancha 1",
+      "hora": "19:45",
+      "local": "villalba-1",
+      "visitante": "torrelodones-2",
+      "sets": [
+        {
+          "local": 11,
+          "visitante": 15
+        },
+        {
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j6-c1-2030",
+      "jornada": 6,
+      "cancha": "Cancha 1",
+      "hora": "20:30",
+      "local": "villalba-3",
+      "visitante": "guadarrama",
+      "sets": [
+        {
+          "local": 10,
+          "visitante": 15
+        },
+        {
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j6-c2-1630",
+      "jornada": 6,
+      "cancha": "Cancha 2",
+      "hora": "16:30",
+      "local": "tres-cantos",
+      "visitante": "sanagus-1",
+      "sets": [
+        {
+          "local": 10,
+          "visitante": 15
+        },
+        {
+          "local": 9,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j6-c2-1715",
+      "jornada": 6,
+      "cancha": "Cancha 2",
+      "hora": "17:15",
+      "local": "torrelodones-1",
+      "visitante": "villalba-2",
+      "sets": [
+        {
+          "local": 7,
+          "visitante": 15
+        },
+        {
+          "local": 10,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 0,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    },
+    {
+      "id": "j6-c2-1900",
+      "jornada": 6,
+      "cancha": "Cancha 2",
+      "hora": "19:00",
+      "local": "guadarrama",
+      "visitante": "villalba-1",
+      "sets": [
+        {
+          "local": 15,
+          "visitante": 12
+        },
+        {
+          "local": 12,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 10
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 2,
+        "visitante": 1
+      },
+      "ganador": "local"
+    },
+    {
+      "id": "j6-c2-1945",
+      "jornada": 6,
+      "cancha": "Cancha 2",
+      "hora": "19:45",
+      "local": "las-dehesas",
+      "visitante": "villalba-3",
+      "sets": [
+        {
+          "local": 8,
+          "visitante": 15
+        },
+        {
+          "local": 15,
+          "visitante": 10
+        },
+        {
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "jugado": true,
+      "setsGanados": {
+        "local": 1,
+        "visitante": 2
+      },
+      "ganador": "visitante"
+    }
+  ]
+}

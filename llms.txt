@@ -1,0 +1,26 @@
+# Liga Super Senior de Voleibol
+
+> Liga de voleibol para adultos amateur no federados de clubs de la sierra oeste de Madrid. Sin gastos de inscripción. Esta web publica el calendario, los resultados, la clasificación, los equipos y las noticias de la liga.
+
+## La liga
+
+- [Sobre la liga](https://superseniorvoley.github.io/la-liga/): qué es la liga y cómo funciona.
+- [Reglamento](https://superseniorvoley.github.io/reglamento/): reglas de la temporada en curso.
+- [Preguntas frecuentes](https://superseniorvoley.github.io/preguntas-frecuentes/): respuestas a las dudas habituales.
+- [Contacto](https://superseniorvoley.github.io/contacto/): email e Instagram de la organización.
+
+## Temporada en curso
+
+- [Calendario](https://superseniorvoley.github.io/#calendario)
+- [Resultados](https://superseniorvoley.github.io/#resultados)
+- [Clasificación](https://superseniorvoley.github.io/#clasificacion)
+- [Equipos](https://superseniorvoley.github.io/#equipos)
+- [Noticias](https://superseniorvoley.github.io/noticias/)
+
+## Histórico
+
+- [Historia](https://superseniorvoley.github.io/historia/): temporadas anteriores, con reglamento, equipos y resultados.
+
+## Datos
+
+- [API pública](https://superseniorvoley.github.io/api/): datos del torneo en JSON, solo lectura, sin clave.
